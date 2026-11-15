@@ -1,0 +1,132 @@
+{
+  "files": [
+    {
+      "filename": "violin.sf2",
+      "title": "violin",
+      "enabled": true,
+      "scanned": true,
+      "presets": [
+        {
+          "name": "ViolinCLASS",
+          "bank": 0,
+          "program": 0,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "filename": "cello.sf2",
+      "title": "cello",
+      "enabled": true,
+      "scanned": true,
+      "presets": [
+        {
+          "name": "Ethan's Cello",
+          "bank": 0,
+          "program": 0,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "filename": "piano.sf2",
+      "title": "piano",
+      "enabled": true,
+      "scanned": true,
+      "presets": [
+        {
+          "name": "Brite piano",
+          "bank": 0,
+          "program": 1,
+          "enabled": true
+        },
+        {
+          "name": "16 layers piano",
+          "bank": 0,
+          "program": 0,
+          "enabled": false
+        },
+        {
+          "name": "Brite piano 2",
+          "bank": 0,
+          "program": 2,
+          "enabled": false
+        },
+        {
+          "name": "Big chorus piano",
+          "bank": 0,
+          "program": 3,
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "filename": "woodwinds.sf2",
+      "title": "woodwinds",
+      "enabled": true,
+      "scanned": true,
+      "presets": [
+        {
+          "name": "Chamber Wind",
+          "bank": 0,
+          "program": 9,
+          "enabled": true
+        },
+        {
+          "name": "Piccolo",
+          "bank": 0,
+          "program": 8,
+          "enabled": true
+        },
+        {
+          "name": "Flute",
+          "bank": 0,
+          "program": 7,
+          "enabled": true
+        },
+        {
+          "name": "Clarinet",
+          "bank": 0,
+          "program": 3,
+          "enabled": true
+        },
+        {
+          "name": "Bass Clarinet",
+          "bank": 0,
+          "program": 4,
+          "enabled": true
+        },
+        {
+          "name": "Contrabassoon",
+          "bank": 0,
+          "program": 6,
+          "enabled": true
+        },
+        {
+          "name": "Bassoon",
+          "bank": 0,
+          "program": 5,
+          "enabled": true
+        },
+        {
+          "name": "Oboe",
+          "bank": 0,
+          "program": 2,
+          "enabled": true
+        },
+        {
+          "name": "English Horn",
+          "bank": 0,
+          "program": 1,
+          "enabled": true
+        },
+        {
+          "name": "Section Winds",
+          "bank": 0,
+          "program": 0,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
